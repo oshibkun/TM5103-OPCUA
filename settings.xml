@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<devices>
+  <port name="COM1" speed="9600">
+    <address address="1">
+      <Channel num="1">True</Channel>
+      <Channel num="2">True</Channel>
+      <Channel num="3">True</Channel>
+      <Channel num="4">True</Channel>
+      <Channel num="5">False</Channel>
+      <Channel num="6">False</Channel>
+      <Channel num="7">False</Channel>
+      <Channel num="8">False</Channel>
+    </address>
+  </port>
+</devices>
